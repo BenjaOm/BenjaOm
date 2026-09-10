@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hola, soy Benjamín Omori Riffo 👋
 
-<!--
-**BenjaOm/BenjaOm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ingeniero en Informática
 
-Here are some ideas to get you started:
+Soy Ingeniero en Informática con intereses profesionales en desarrollo web, ciberseguridad, análisis de redes, Red Team, soporte TI, bases de datos y gestión de proyectos TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me interesa participar en proyectos tecnológicos donde pueda aportar con una mirada técnica, organizada y orientada a la mejora continua.
+
+## Tecnologías
+
+- **Desarrollo web:** HTML, CSS, JavaScript y React
+- **Lenguajes:** Python, Java y C#
+- **Bases de datos:** SQL y MySQL
+
+## Ciberseguridad y redes
+
+- Ciberseguridad
+- Análisis de redes
+- Red Team
+- Soporte TI
+
+## Herramientas
+
+- Microsoft Excel avanzado
+- Microsoft 365
+- Microsoft Project
+- Visual Studio Code
+- Visual Studio
+
+## Gestión de proyectos TI
+
+- Scrum
+- PMBOK
+- Metodologías ágiles
+
+## Certificaciones
+
+- PCEP Python / Cisco Networking Academy
+- Scrum SFPC
+- Google Cloud Skills Boost
+
+## Proyectos destacados — próximamente
+
+Esta sección se actualizará con proyectos que incluirán:
+
+- Descripción y objetivo
+- Tecnologías utilizadas
+- Capturas o demostración
+- Instrucciones de instalación y ejecución
+- Principales aprendizajes
+
+## Contacto
+
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-omori-riffo-8b4248134/).
